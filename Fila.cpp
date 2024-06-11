@@ -1,8 +1,6 @@
 #include <iostream>
 #include "tad.h"
-#include <clocale>
 using namespace std;
-
 
 /*
 FUNÇÃO: criaFila
@@ -105,8 +103,6 @@ void printFilaControle(Fila* fila){
 	}
 	cout << "X" << endl;
 }
-
-// *************************************************************************************************************************
 
 void imprimeFila(Fila * fila){
 	if(vaziaFila(fila)){

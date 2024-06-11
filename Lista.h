@@ -17,6 +17,7 @@ Node* removeElemLista(Node *lista, int elem);
 Node* buscaElementoLista(Node *lista, int elem);
 void setElementoLista(Node *pEdit, int edit);
 int getElementoLista(Node *pAcess);
+
 int maxLista(Node *lista);
 int minLista(Node * lista);
 int mediaLista(Node *lista);

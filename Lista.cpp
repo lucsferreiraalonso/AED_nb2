@@ -1,6 +1,5 @@
 #include <iostream>
 #include "tad.h"
-#include <clocale>
 using namespace std;
 
 Node* criaLista(){
@@ -183,6 +182,7 @@ int maxLista(Node *lista){
         cout << "Lista vazia";
         return 0;
     }
+
     int max = lista->info;
     Node * aux = lista;
     while(aux){
