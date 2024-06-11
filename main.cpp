@@ -13,7 +13,7 @@ int main() {
     //padronizando acentuação
     setlocale(LC_ALL, "");
 
-    cout << " *** FILAS ***" << endl;
+    cout << " *** FILAS *** " << endl;
 
     Fila *fila = criaFila();
     enqueue(fila, 1);
