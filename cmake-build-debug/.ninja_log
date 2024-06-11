@@ -1,0 +1,7 @@
+# ninja log v5
+11	616	7397886227350365	CMakeFiles/trabalho2.dir/Lista.cpp.obj	7694d6c13c0b0b77
+1	630	7397886227455435	CMakeFiles/trabalho2.dir/main.cpp.obj	ed2690769dcfc5c6
+30	643	7397886227635471	CMakeFiles/trabalho2.dir/Fila.cpp.obj	a817352a7b74567a
+20	658	7397886227805512	CMakeFiles/trabalho2.dir/Pilha.cpp.obj	83afd5a8250621a9
+619	728	7397886228487749	CMakeFiles/trabalho2.dir/tad.cpp.obj	4afeb7687d9fbb40
+728	2936	7397886231300561	trabalho2.exe	11e7f2d591a89c8
